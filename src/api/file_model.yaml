@@ -1,0 +1,4 @@
+type: file
+example: resources/datasets/neurips-2023-data/model/
+label: Model
+summary: "Optional model output. If no value is passed, the model will be removed at the end of the run."
